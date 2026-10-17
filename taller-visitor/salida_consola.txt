@@ -1,0 +1,10 @@
+=== Calculadora de ventas Wtech ===
+Subtotal: $1700
+Envio:    $1060
+Total:    $2760
+
+--- Pedido vacio ---
+Subtotal: $0 | Envio: $0 | Total: $0
+
+--- Cantidad invalida ---
+Error: La cantidad debe ser mayor a cero
